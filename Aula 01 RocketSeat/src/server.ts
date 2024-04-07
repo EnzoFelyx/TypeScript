@@ -28,7 +28,7 @@ function saveUserToDatebase(user: User) {
 }
 
 saveUserToDatebase({
-    name: 'Diego',
+    name: 'Diegos',
     cidade: 'Santos',
     age: 28,
     senha: '4123213'
